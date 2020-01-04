@@ -1,2 +1,3 @@
 # Simple-Chatbot
-Configurable chatbot in python
+
+This repository consists the python code for developing a simple and configurable chatbot.
