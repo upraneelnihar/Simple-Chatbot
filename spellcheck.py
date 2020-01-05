@@ -41,7 +41,7 @@ def edits2(word):
 
 def perform_correction(text):
 
-	# split the text
+    # split the text
 	words = text.split()
 	s = []
 	# for each word in the line:

@@ -27,3 +27,20 @@
     ```
 - The `intents` folder contains the data for possible user input for each intent.
 - The `params` folder contains the dialog flow  to capture the required params for each intent.
+
+# Steps to Run the Chatbot:
+
+1. Create a python virtual environment and activate it:
+    ```
+    python3 -m venv bot
+    source bot/bin/activate
+    ```
+2. Install the required libraries:
+    ```
+    pip install -r requirements.txt
+    ```
+3. Run the chatbot:
+    ```
+    python run.py
+    ```
+4. Enter `exit` once you are done.
