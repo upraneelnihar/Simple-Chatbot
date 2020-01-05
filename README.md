@@ -2,8 +2,8 @@
 
 - This repository consists the python code for developing a simple chatbot.
 - For demomstration the chatbot is configured for performing two tasks:
-    - `Movie Search`
-    - `Booking Restaurant`
+    - `Search Movie`
+    - `Book Restaurant`
 
 ### Data Description:
 - The `db` folder contains the data files :
@@ -16,11 +16,11 @@
        [cuisine, costtype, location, Restaurant]
        ```
 - The `entities` folder contains the data for various entities present in each task:
-    - `Movie search`:
+    - `Search Movie`:
     ```
     [Actors, genre, date, language, location]
     ```
-    - `Restaurant Search`:
+    - `Book Resturant`:
     ```
     [cuisine, costtype], location]
     ```
