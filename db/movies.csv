@@ -1,0 +1,106 @@
+Movie,language,Actor,Theatre_Name,genre,date,Show_Time,location
+Die Hard,English,Bruce Willis,Asian GPR,Action,DayAfter,1:30 PM,Hyderabad
+Die Hard,English,Bruce Willis,Asian GPR,Action,DayAfter,4:45 PM,Hyderabad
+Die Hard,English,Bruce Willis,Asian GPR,Action,DayAfter,7:30 PM,Hyderabad
+Die Hard,English,Bruce Willis,Cinemax Infinity Mall,Action,Today,1:30 PM,Mumbai
+Die Hard,English,Bruce Willis,Cinemax Infinity Mall,Action,Today,4:45 PM,Mumbai
+Die Hard,English,Bruce Willis,Cinemax Infinity Mall,Action,Today,7:30 PM,Mumbai
+Die Hard,Hindi,Bruce Willis,Cinepolis Magnet Mall,Action,Tomorrow,1:30 PM,Mumbai
+Die Hard,Hindi,Bruce Willis,Cinepolis Magnet Mall,Action,Tomorrow,4:45 PM,Mumbai
+Die Hard,Hindi,Bruce Willis,Cinepolis Magnet Mall,Action,Tomorrow,7:30 PM,Mumbai
+Die Hard,English,Bruce Willis,Inox Maheshwari ,Action,Tomorrow,1:30 PM,Hyderabad
+Die Hard,English,Bruce Willis,PVR Forum Mall,Action,Today,1:30 PM,Hyderabad
+Die Hard,English,Bruce Willis,PVR Forum Mall,Action,Today,4:45 PM,Hyderabad
+Die Hard,English,Bruce Willis,PVR Forum Mall,Action,Today,7:30 PM,Hyderabad
+Die Hard,English,Bruce Willis,PVR Growel,Action,DayAfter,1:30 PM,Mumbai
+Die Hard,English,Bruce Willis,PVR Growel,Action,DayAfter,4:45 PM,Mumbai
+Die Hard,English,Bruce Willis,PVR Growel,Action,DayAfter,7:30 PM,Mumbai
+Die Hard,English,Bruce Willis,PVR Icon,Action,Today,1:30 PM,Mumbai
+Die Hard,English,Bruce Willis,PVR Icon,Action,Today,4:45 PM,Mumbai
+Die Hard,English,Bruce Willis,PVR Icon,Action,Today,7:30 PM,Mumbai
+Die Hard,English,Bruce Willis,PVR Inorbit Mall,Action,Today,1:30 PM,Hyderabad
+Die Hard,English,Bruce Willis,PVR Inorbit Mall,Action,Today,4:45 PM,Hyderabad
+Die Hard,English,Bruce Willis,PVR Inorbit Mall,Action,Today,7:30 PM,Hyderabad
+Hitch,English,Will Smith,Inox Maheshwari ,Animation,Tomorrow,1:30 PM,Hyderabad
+Hitch,English,Will Smith,Inox Maheshwari ,Animation,Tomorrow,4:45 PM,Hyderabad
+Hitch,English,Will Smith,Inox Maheshwari ,Animation,Tomorrow,7:30 PM,Hyderabad
+Hitch,English,Will Smith,Inox Maheshwari ,Animation,DayAfter,1:30 PM,Hyderabad
+Hitch,English,Will Smith,Inox Maheshwari ,Animation,DayAfter,4:45 PM,Hyderabad
+Hitch,English,Will Smith,Inox Maheshwari ,Animation,DayAfter,7:30 PM,Hyderabad
+Hitch,English,Will Smith,PVR Inorbit Mall,Animation,DayAfter,1:30 PM,Hyderabad
+Hitch,English,Will Smith,PVR Inorbit Mall,Animation,DayAfter,1:30 PM,Hyderabad
+Hitch,English,Will Smith,PVR Inorbit Mall,Animation,DayAfter,4:45 PM,Hyderabad
+Hitch,English,Will Smith,PVR Inorbit Mall,Animation,DayAfter,7:30 PM,Hyderabad
+Hitch,English,Will Smith,PVR Inorbit Mall,Animation,DayAfter,1:30 PM,Hyderabad
+Hitch,English,Will Smith,PVR Inorbit Mall,Animation,DayAfter,4:45 PM,Hyderabad
+Hitch,English,Will Smith,PVR Inorbit Mall,Animation,DayAfter,7:30 PM,Hyderabad
+Hitch,Hindi,Will Smith,PVR Lodha Xperia,Animation,Tomorrow,1:30 PM,Mumbai
+Hitch,Hindi,Will Smith,PVR Lodha Xperia,Animation,Tomorrow,4:45 PM,Mumbai
+Hitch,Hindi,Will Smith,PVR Lodha Xperia,Animation,Tomorrow,7:30 PM,Mumbai
+Hitch,Hindi,Will Smith,PVR Lodha Xperia,Animation,DayAfter,4:45 PM,Mumbai
+Hitch,Hindi,Will Smith,PVR Lodha Xperia,Animation,DayAfter,7:30 PM,Mumbai
+Hitch,Hindi,Will Smith,PVR Lodha Xperia,Animation,DayAfter,4:45 PM,Mumbai
+Hitch,Hindi,Will Smith,PVR Lodha Xperia,Animation,DayAfter,7:30 PM,Mumbai
+Padmaavat,Hindi,Deepika Padukone,Asian GPR,Drama,DayAfter,1:30 PM,Hyderabad
+Padmaavat,Hindi,Deepika Padukone,Asian GPR,Drama,DayAfter,4:45 PM,Hyderabad
+Padmaavat,Hindi,Deepika Padukone,Asian GPR,Drama,DayAfter,7:30 PM,Hyderabad
+Padmaavat,Hindi,Deepika Padukone,Carnival Cinemas,Drama,DayAfter,1:30 PM,Hyderabad
+Padmaavat,Hindi,Deepika Padukone,Carnival Cinemas,Drama,DayAfter,4:45 PM,Hyderabad
+Padmaavat,Hindi,Deepika Padukone,Carnival Cinemas,Drama,DayAfter,7:30 PM,Hyderabad
+Padmaavat,Hindi,Deepika Padukone,Carnival Cinemas,Drama,DayAfter,1:30 PM,Hyderabad
+Padmaavat,Hindi,Deepika Padukone,Carnival Cinemas,Drama,DayAfter,4:45 PM,Hyderabad
+Padmaavat,Hindi,Deepika Padukone,Carnival Cinemas,Drama,DayAfter,7:30 PM,Hyderabad
+Padmaavat,Hindi,Deepika Padukone,Inox Inorbit Mall,Drama,Tomorrow,1:30 PM,Mumbai
+Padmaavat,Hindi,Deepika Padukone,Inox Inorbit Mall,Drama,Tomorrow,4:45 PM,Mumbai
+Padmaavat,Hindi,Deepika Padukone,Inox Inorbit Mall,Drama,Tomorrow,7:30 PM,Mumbai
+Padmaavat,Hindi,Deepika Padukone,Inox Inorbit Mall,Drama,DayAfter,1:30 PM,Mumbai
+Padmaavat,Hindi,Deepika Padukone,Inox Inorbit Mall,Drama,DayAfter,4:45 PM,Mumbai
+Padmaavat,Hindi,Deepika Padukone,Inox Inorbit Mall,Drama,DayAfter,7:30 PM,Mumbai
+Padmaavat,Hindi,Deepika Padukone,PVR Growel,Drama,DayAfter,1:30 PM,Mumbai
+Padmaavat,Hindi,Deepika Padukone,PVR Growel,Drama,DayAfter,4:45 PM,Mumbai
+Padmaavat,Hindi,Deepika Padukone,PVR Growel,Drama,DayAfter,7:30 PM,Mumbai
+Padmaavat,Hindi,Deepika Padukone,PVR Icon,Drama,DayAfter,1:30 PM,Mumbai
+Padmaavat,Hindi,Deepika Padukone,PVR Icon,Drama,DayAfter,4:45 PM,Mumbai
+Padmaavat,Hindi,Deepika Padukone,PVR Icon,Drama,DayAfter,7:30 PM,Mumbai
+Raid,Hindi,Ajay Devgan,Asian CineSquare,Action,DayAfter,1:30 PM,Hyderabad
+Raid,Hindi,Ajay Devgan,Asian CineSquare,Action,DayAfter,4:45 PM,Hyderabad
+Raid,Hindi,Ajay Devgan,Asian CineSquare,Action,DayAfter,7:30 PM,Hyderabad
+Raid,Hindi,Ajay Devgan,Asian CineSquare,Action,DayAfter,1:30 PM,Hyderabad
+Raid,Hindi,Ajay Devgan,Asian CineSquare,Action,DayAfter,4:45 PM,Hyderabad
+Raid,Hindi,Ajay Devgan,Asian CineSquare,Action,DayAfter,7:30 PM,Hyderabad
+Raid,Hindi,Ajay Devgan,Inox Glomax mall,Action,Today,1:30 PM,Mumbai
+Raid,Hindi,Ajay Devgan,Inox Glomax mall,Action,Today,1:30 PM,Mumbai
+Raid,Hindi,Ajay Devgan,Inox Glomax mall,Action,Today,4:45 PM,Mumbai
+Raid,Hindi,Ajay Devgan,Inox Glomax mall,Action,Today,4:45 PM,Mumbai
+Raid,Hindi,Ajay Devgan,Inox Glomax mall,Action,Today,7:30 PM,Mumbai
+Raid,Hindi,Ajay Devgan,Inox Glomax mall,Action,Today,7:30 PM,Mumbai
+Raid,Hindi,Ajay Devgan,PVR Icon,Action,DayAfter,1:30 PM,Mumbai
+Raid,Hindi,Ajay Devgan,PVR Icon,Action,DayAfter,4:45 PM,Mumbai
+Raid,Hindi,Ajay Devgan,PVR Icon,Action,DayAfter,7:30 PM,Mumbai
+Raid,Hindi,Ajay Devgan,PVR Icon,Action,Tomorrow,1:30 PM,Mumbai
+Raid,Hindi,Ajay Devgan,PVR Icon,Action,Tomorrow,4:45 PM,Mumbai
+Raid,Hindi,Ajay Devgan,PVR Icon,Action,Tomorrow,7:30 PM,Mumbai
+Rangasthalam,Telugu,Ram Charan,Asian GPR,Family,DayAfter,1:30 PM,Hyderabad
+Rangasthalam,Telugu,Ram Charan,Asian GPR,Family,DayAfter,4:45 PM,Hyderabad
+Rangasthalam,Telugu,Ram Charan,Asian GPR,Family,DayAfter,7:30 PM,Hyderabad
+Rangasthalam,Telugu,Ram Charan,Cine Town,Family,DayAfter,1:30 PM,Hyderabad
+Rangasthalam,Telugu,Ram Charan,Cine Town,Family,DayAfter,4:45 PM,Hyderabad
+Rangasthalam,Telugu,Ram Charan,Cine Town,Family,DayAfter,7:30 PM,Hyderabad
+Rangasthalam,Telugu,Ram Charan,Cinepolis Mantra Mall,Family,DayAfter,1:30 PM,Hyderabad
+Rangasthalam,Telugu,Ram Charan,Cinepolis Mantra Mall,Family,DayAfter,4:45 PM,Hyderabad
+Rangasthalam,Telugu,Ram Charan,Cinepolis Mantra Mall,Family,DayAfter,7:30 PM,Hyderabad
+Rangasthalam,Telugu,Ram Charan,Cinepolis Mantra Mall,Family,DayAfter,1:30 PM,Hyderabad
+Rangasthalam,Telugu,Ram Charan,Cinepolis Mantra Mall,Family,DayAfter,4:45 PM,Hyderabad
+Rangasthalam,Telugu,Ram Charan,Cinepolis Mantra Mall,Family,DayAfter,7:30 PM,Hyderabad
+Tholi Prema,Telugu,Varun Tej,Gokul,Romance,DayAfter,1:30 PM,Hyderabad
+Tholi Prema,Telugu,Varun Tej,Gokul,Romance,DayAfter,4:45 PM,Hyderabad
+Tholi Prema,Telugu,Varun Tej,Gokul,Romance,DayAfter,7:30 PM,Hyderabad
+Tholi Prema,Telugu,Varun Tej,Gokul,Romance,DayAfter,1:30 PM,Hyderabad
+Tholi Prema,Telugu,Varun Tej,Gokul,Romance,DayAfter,4:45 PM,Hyderabad
+Tholi Prema,Telugu,Varun Tej,Gokul,Romance,DayAfter,7:30 PM,Hyderabad
+Tholi Prema,Telugu,Varun Tej,Sangeet,Romance,DayAfter,1:30 PM,Hyderabad
+Tholi Prema,Telugu,Varun Tej,Sangeet,Romance,DayAfter,4:45 PM,Hyderabad
+Tholi Prema,Telugu,Varun Tej,Sangeet,Romance,DayAfter,7:30 PM,Hyderabad
+Tholi Prema,Telugu,Varun Tej,Sangeet,Romance,DayAfter,1:30 PM,Hyderabad
+Tholi Prema,Telugu,Varun Tej,Sangeet,Romance,DayAfter,4:45 PM,Hyderabad
+Tholi Prema,Telugu,Varun Tej,Sangeet,Romance,DayAfter,7:30 PM,Hyderabad
