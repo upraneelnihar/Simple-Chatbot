@@ -3,7 +3,7 @@
 - This repository consists the python code for developing a simple chatbot.
 - For demomstration the chatbot is configured for performing two tasks:
     - `Movie Search`
-    - `Restaurant Search`
+    - `Booking Restaurant`
 
 ### Data Description:
 - The `db` folder contains the data files :
