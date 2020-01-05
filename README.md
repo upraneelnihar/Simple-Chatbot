@@ -5,7 +5,7 @@
     - `Movie Search`
     - `Restaurant Search`
 
-# Data Description:
+### Data Description:
 - The `db` folder contains the data files :
     - `movies.csv`: Contains list of movies data in the below format.
        ```
@@ -19,7 +19,6 @@
     - `Movie search`:
     ```
     [Actors, genre, date, language, location]
-
     ```
     - `Restaurant Search`:
     ```
@@ -28,7 +27,7 @@
 - The `intents` folder contains the data for possible user input for each intent.
 - The `params` folder contains the dialog flow  to capture the required params for each intent.
 
-# Steps to Run the Chatbot:
+### Steps to Run the Chatbot:
 
 1. Create a python virtual environment and activate it:
     ```
